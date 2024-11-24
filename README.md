@@ -6,4 +6,4 @@ After importing my Spotify Playlist into Lidarr, I wanted to get a playlist in J
 I created this little python script, to fetch all songs from a specified Playlist from Spotify and then favoriting the songs found in Jellyfin.
 
 # Configuration
-Just set the Values in the .env file and you are good to got
+Just set the Values in the .env file and you are good to go
